@@ -1,0 +1,19 @@
+.hero-wrapper {
+    background-image: linear-gradient(
+            180deg,
+            rgba(31, 28, 58, 0.9),
+            rgba(31, 28, 58, 0.9) 10%,
+            transparent 40%,
+            rgba(34, 38, 45, 0.75) 70%,
+            #22262d 90%
+        ),
+        url(https://zed.run/assets/b0d7d4ad43691cc5a7ed.jpg);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: absolute;
+    top: 0rem;
+    width: 100%;
+    /* z-index: -1; */
+}
